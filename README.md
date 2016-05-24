@@ -5,3 +5,5 @@ Used for publishing of Norwegian SAF-T Schema and related information. See also 
 ---
 * XSLT stylesheet for å kunne importene XML-filene som ligger i tilleggsmappene( General Ledger Standard Accounts og Standard Tax Codes ) i SAF-T prosjektet.
 * [WIP] XSLT stylesheet for å eksportere SAF-T fra FileMaker ved ønske
+
+Har ikke testet men dette bør fungere med FileMaker 5.5 - 14, testet mot 11
